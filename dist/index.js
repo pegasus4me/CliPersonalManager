@@ -78,5 +78,6 @@ setTimeout(() => {
     if (!process.argv.slice(2).length) {
         program.outputHelp();
     }
+    // end
 }, 3000);
 //# sourceMappingURL=index.js.map
