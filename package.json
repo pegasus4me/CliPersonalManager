@@ -1,0 +1,32 @@
+{
+  "name": "toolkitcli",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/index.js",
+  "bin": {
+    "dirmanager": "./dist/index.js"
+  },
+  
+  "scripts": {
+    "build": "npx tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/figlet": "^1.5.6",
+    "commander": "^10.0.1",
+    "figlet": "^1.6.0",
+    "fs-extra": "^11.1.1",
+    "loading-cli": "^1.1.0",
+    "nodemon": "^2.0.22",
+    "path": "^0.12.7",
+    "ts-node": "^10.9.1",
+    "tsc-watch": "^6.0.4"
+  },
+  "devDependencies": {
+    "@types/node": "^20.1.4",
+    "typescript": "^5.0.4"
+  }
+}
