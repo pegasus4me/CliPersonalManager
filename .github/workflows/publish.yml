@@ -2,6 +2,7 @@ name: "publish package to npm"
 
 on: push
 
+
 jobs:
   publish:
     runs-on: windows-latest
