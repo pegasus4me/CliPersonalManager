@@ -1,7 +1,7 @@
 
 
 Simple Cli Project Manager build with Typescript 
-getting started by install it whit ````npm i clipersonalmanager````
+getting started by install it with  ````npm i clipersonalmanager````
 
 on your index.js page 
 import ``clipersonalmanager`` = 
